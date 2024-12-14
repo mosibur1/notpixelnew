@@ -19,7 +19,7 @@ def print_banner():
 ╚══════════════════════════════════╝
 """
     print(Fore.MAGENTA+ banner)
-    print(Fore.YELLOW + 'CREATED BY : Danial Qamar: ⨭ ' + Fore.GREEN + 'https://t.me/mrptechofficial')
+    print(Fore.YELLOW + 'CREATED BY : MRP Tech: ⨭ ' + Fore.GREEN + 'https://t.me/mrptechofficial')
     print(Fore.WHITE + 'JOIN OUR TELEGRAM CHANNEL ➤ ' + Fore.GREEN + 'https://t.me/mrptechofficial')
     print(Fore.RED + 'LEARN HACKING HERE ➤ ' + Fore.GREEN + 'https://www.youtube.com/@MRPTechyt')
     print(Fore.YELLOW + '⚡it was Paid but i gifted Free so please subscribe my channels ⚡ ')
