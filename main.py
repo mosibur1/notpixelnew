@@ -7,12 +7,11 @@ def print_banner():
     banner = """
 ╔══════════════════════════════════╗
 ║                                  ║
-║  Danial Qamar                    ║
+║  MRP Tech                        ║
 ║  AUTO SCRIPT MASTER              ║
 ║                                  ║
 ║  JOIN TELEGRAM CHANNEL NOW!      ║
-║  Wait for update.- OFFICIAL      ║
-║  CHANNEL                         ║
+║ https://t.me/mrptechofficial     ║
 ║                                  ║
 ║  FAST - RELIABLE - SECURE        ║
 ║  SCRIPTS EXPERT                  ║
@@ -20,11 +19,9 @@ def print_banner():
 ╚══════════════════════════════════╝
 """
     print(Fore.MAGENTA+ banner)
-    print(Fore.YELLOW + 'CREATED BY : Danial Qamar: ⨭ ' + Fore.GREEN + 'https://t.me/danialqamar1')
-    print(Fore.WHITE + 'JOIN OUR TELEGRAM CHANNEL ➤ ' + Fore.GREEN + 'https://t.me/danialqamar1')
-    print(Fore.RED + 'LEARN HACKING HERE ➤ ' + Fore.GREEN + 'https://www.youtube.com')
-    print(Fore.RED + 'DOWNLOAD MORE HACKS ➤ ' + Fore.GREEN + 'https://github.com/danial-qamar')
-    print(Fore.WHITE + 'BUY NODEPAY REFERAL HERE ➤ : ⨭ ' + Fore.GREEN + 'https://t.me/danialqamar1')
+    print(Fore.YELLOW + 'CREATED BY : Danial Qamar: ⨭ ' + Fore.GREEN + 'https://t.me/mrptechofficial')
+    print(Fore.WHITE + 'JOIN OUR TELEGRAM CHANNEL ➤ ' + Fore.GREEN + 'https://t.me/mrptechofficial')
+    print(Fore.RED + 'LEARN HACKING HERE ➤ ' + Fore.GREEN + 'https://www.youtube.com/@MRPTechyt')
     print(Fore.YELLOW + '⚡it was Paid but i gifted Free so please subscribe my channels ⚡ ')
     print(Fore.GREEN + '                  [𝍖𝍖𝍖 NOTPIXEL ADS WATCHER 𝍖𝍖𝍖]                  ')
 
@@ -61,8 +58,8 @@ def run_zain():
 def open_channels():
     print(Fore.GREEN + "\nAttempting to open Telegram and YouTube channels...")
     # Open Telegram channel
-    telegram_url = "https://t.me/danialqamar1"
-    youtube_url = "https://www.youtube.com"
+    telegram_url = "https://t.me/mrptechofficial"
+    youtube_url = "https://www.youtube.com/@MRPTechyt"
     
     try:
         # Attempt to open the URLs
